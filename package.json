@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@slack/bolt": "^3.12.2",
+    "env-cmd": "^10.1.0"
+  },
+  "name": "slack",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
